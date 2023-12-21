@@ -15,7 +15,7 @@ imgElem.onload = function(){
     ctx.drawImage(imgElem, 0, 0, canvas.width, canvas.height);
 };
 
-imgElem.src = '문제1수정.png';
+imgElem.src = '문제3 수정본.png';
 
 let painting = false;
 let currentColor = "#000000"; // 현재 선택된 색상 저장 변수
